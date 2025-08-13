@@ -1,0 +1,4 @@
+# requirements.txt
+
+# Standard library modules are not listed (json, datetime, os, etc.)
+# No external dependencies required for core functionality
